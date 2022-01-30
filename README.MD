@@ -4,12 +4,12 @@
 
 
 Steps:
-Install packages, load data
-Convert Training data to DiCE data
-Instantiate pre-trained model (Black Box Model)
-Combine Model and Data
-Specify CF Method (model agnostic method only)
-Specify Constraints
+1. Install packages, load data
+2. Convert Training data to DiCE data
+3. Instantiate pre-trained model (Black Box Model)
+4. Combine Model and Data
+5. Specify CF Method (model agnostic method only)
+6. Specify Constraints
 
 
 
